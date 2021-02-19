@@ -1,2 +1,4 @@
 run.sh
 venv/
+env/
+app.db
